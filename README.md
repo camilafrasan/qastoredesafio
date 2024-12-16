@@ -13,12 +13,18 @@
 ```bash
 pip install robotframework
 ```
+
 3) Instalar a biblioteca Selenium: 
 ```bash
 pip install robotframework-seleniumlibrary
 ```
 
-4) Executar os testes: 
+4) Clonar o projeto:
+```bash
+git clone git@github.com:camilafrasan/qastoredesafio.git
+```
+
+5) Executar os testes: 
 ```bash
 robot cupom_desconto.robot
 ```
