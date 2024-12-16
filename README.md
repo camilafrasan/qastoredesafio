@@ -20,5 +20,5 @@ pip install robotframework-seleniumlibrary
 
 4) Executar os testes: 
 ```bash
-robrobot tests/cupom_desconto.robot
+robot cupom_desconto.robot
 ```
